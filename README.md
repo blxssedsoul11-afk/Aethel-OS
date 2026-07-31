@@ -8,9 +8,9 @@ AethelOS aims to provide an operating system that feels "above the noise"—prio
 
 ## Visual Identity & Palette
 
-*   **Colors**: The visual identity of AethelOS is inspired by celestial themes, incorporating **Cloud White**, **Celestial Blue**, and **Deep Space Indigo**. Subtle accents of **Champagne Gold** can be used for premium features or highlights.
+*   **Official Logo (Final Beta)**: The **Nebula Butterfly**. A minimalist, flat 2D symbol where the wings are composed of abstract, geometric light-trail patterns. It represents digital transformation and the lightweight nature of the OS.
+*   **Colors**: The visual identity of AethelOS is inspired by celestial themes, incorporating **Cloud White**, **Celestial Blue**, and **Deep Space Indigo**.
 *   **Typography**: A modern, lightweight Sans-Serif typeface (such as Inter or Montserrat) with generous letter spacing is recommended to convey an "airy" and open feel.
-*   **Logo Concept**: A minimalist, stylized "A" that evokes imagery of a mountain peak or a rising star. The logo could incorporate a subtle gradient or transparency to reflect the ethereal quality of the sky.
 
 ## Slogan Ideas
 
